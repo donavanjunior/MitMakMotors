@@ -1,0 +1,6 @@
+{
+  "name": "Mit Mak Motors Appraisal",
+  "description": "Premium AI-assisted vehicle appraisal application for Mit Mak Motors, South Africa.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
